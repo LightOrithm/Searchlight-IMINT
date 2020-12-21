@@ -13,7 +13,7 @@
 
 # Important Note:
 
-## I recommend reading everything in this room, do not just skip to the challenges, because there are a lot of useful topics explained.
+## Please read everything carefully in this room, don't skip everything and try to answer, there are plenty of new tools you can add to your arsenal here.
 
 <br/><br/>
 
